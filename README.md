@@ -31,6 +31,7 @@ In the repository is a `.travis.yml` file that will build your application autom
 * [npm](https://www.npmjs.com/)
 * [Express.js](https://expressjs.com/)
 * [Travis CI](https://travis-ci.com/)
+* [Spotify web api node](https://github.com/thelinmichael/spotify-web-api-node)
 
 ## Contributing
 - Feel free to contribute
