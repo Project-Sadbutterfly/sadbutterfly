@@ -1,4 +1,4 @@
-# Project: Sadbutterfly
+# Project: Sadbutterfly [![Build Status](https://travis-ci.com/Project-Sadbutterfly/sadbutterfly.svg?branch=master)](https://travis-ci.com/Project-Sadbutterfly/sadbutterfly)
 
 Project to work against the spotify API
 
